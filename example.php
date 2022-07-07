@@ -1,4 +1,9 @@
 <?php
+
+/* Class PHP BIC Validation
+Author:Roberto Aleman
+Website: ventics.com
+*/
 require("class_vco.php");
 
 if(isset($_POST['check']))
